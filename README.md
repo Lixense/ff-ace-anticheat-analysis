@@ -3,14 +3,14 @@
 > Reverse engineering notes on Tencent ACE (Anti-Cheat Expert) as it ships inside Free Fire
 > (armeabi-v7a, OB54). Everything in here comes from decompiling the two ACE libraries
 > ourselves and running the game against real builds. This repo is a POST-MORTEM. It
-> exists so the next person doesn't waste months of their life on the same wall we did.
+> exists so the next person doesn't waste days of their life on the same wall we did.
 
 Author: Lixense (haithem08)  
 What this is: research writeup + tooling. No cheat code, no working bypass, no APKs, no ACE binaries.
 
 ## Why this repo exists
 
-I spent months trying to build a non-root panel for Free Fire on Android. Every approach
+I spent days trying to build a non-root panel for Free Fire on Android. Every approach
 worked on paper and then died on the device. Somewhere along the way I got tired of the
 same forums repeating the same wrong answers, so I sat down with IDA and my own tools and
 went to prove what actually happens. This is what I found. If you are here because you are
@@ -276,7 +276,7 @@ If you are a security researcher: welcome, PRs welcome, especially on the libano
 If you are an anti-cheat engineer: yes, hi, your product is impressive from the inside.  
 If you are here to ship a cheat: read the section above titled "Why non-root Unity + ACE
 cannot be beaten from inside the game process", then decide if it is really the project
-you want to spend the next six months on.
+you want to spend the next weeks on.
 
 ## Credits and prior art
 
