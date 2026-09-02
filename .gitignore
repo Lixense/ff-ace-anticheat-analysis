@@ -1,0 +1,26 @@
+# Never commit the actual ACE binaries or IDA databases.
+*.so
+*.i64
+*.id0
+*.id1
+*.id2
+*.til
+*.nam
+
+# Nor the APKs and keystores from the analysis pipeline.
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# IDA runtime artifacts / scratch
+analysis/_snap/
+analysis/*/RAW/
+analysis/History/
+_publish_staging/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

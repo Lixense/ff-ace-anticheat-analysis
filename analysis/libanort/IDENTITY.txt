@@ -1,0 +1,5 @@
+file: libanort.so
+size: 1406804 bytes
+md5:  45cdcf19a674fc7336bb5c560e13f11a
+extracted_from: artifacts/split_v7a.apk  (FF OB54 v1.126.1, versionCode 2019120776)
+captured: 2026-09-02T11:26:07Z

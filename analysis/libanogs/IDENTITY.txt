@@ -1,0 +1,5 @@
+file: libanogs.so
+size: 3973352 bytes
+md5:  2810a5336fe644240a8d23885c7c5de4
+extracted_from: artifacts/split_v7a.apk  (FF OB54 v1.126.1, versionCode 2019120776)
+captured: 2026-09-02T11:26:07Z
