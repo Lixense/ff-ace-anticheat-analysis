@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/banner.png" alt="Lixense" width="900">
+</p>
+
 # ff-ace-anticheat-analysis
 
 > Reverse engineering notes on Tencent ACE (Anti-Cheat Expert) as it ships inside Free Fire
