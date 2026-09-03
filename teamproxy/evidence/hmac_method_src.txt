@@ -1,0 +1,168 @@
+== 请君为我倾耳听 keys=['0', '1', '2', '3', '5', '7', '9'] datas=['4', '6', '8', 'a']
+.method private 请君为我倾耳听(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;J)Ljava/lang/String;
+    .locals 8
+
+    :try_start_0
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-static {p1}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-direct {v0, v1}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+
+    const/16 v1, 0x10
+
+    new-array v1, v1, [B
+
+    fill-array-data v1, :array_0
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v1
+
+    const/4 v2, 0x1
+
+    new-array v2, v2, [B
+
+    const/4 v3, 0x0
+
+    const/16 v4, 0x18
+
+    aput-byte v4, v2, v3
+
+    const/4 v3, 0x1
+
+    const/4 v4, 0x0
+
+    invoke-static {v2, v1, v3, v4}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;ZZ)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0, p2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const/16 v1, 0x10
+
+    new-array v1, v1, [B
+
+    fill-array-data v1, :array_1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v1
+
+    const/4 v2, 0x1
+
+    new-array v2, v2, [B
+
+    const/4 v3, 0x0
+
+    const/16 v4, 0x18
+
+    aput-byte v4, v2, v3
+
+    const/4 v3, 0x1
+
+    invoke-static {v2, v1, v3}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;Z)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilde
+== 钟鼓馔玉不足贵 keys=['0', '1', '2', '4', '6', '8'] datas=['3', '5', '7', '9']
+.method private 钟鼓馔玉不足贵(Ljava/lang/String;Ljava/lang/String;J)Ljava/lang/String;
+    .locals 9
+
+    :try_start_0
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    invoke-static {p1}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-direct {v0, v1}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+
+    const/16 v1, 0x10
+
+    new-array v1, v1, [B
+
+    fill-array-data v1, :array_0
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v1
+
+    const/4 v2, 0x1
+
+    new-array v2, v2, [B
+
+    const/4 v3, 0x0
+
+    const/16 v4, 0x44
+
+    aput-byte v4, v2, v3
+
+    const v3, 0x4e1b2302    # 6.506907E8f
+
+    invoke-static {v2, v1, v3}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;F)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0, p2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const/16 v1, 0x10
+
+    new-array v1, v1, [B
+
+    fill-array-data v1, :array_1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v1
+
+    const/4 v2, 0x1
+
+    new-array v2, v2, [B
+
+    const/4 v3, 0x0
+
+    const/16 v4, 0x48
+
+    aput-byte v4, v2, v3
+
+    const/4 v3, 0x0
+
+    const/4 v4, 0x0
+
+    invoke-static {v2, v1, v3, v4}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;ZZ)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBu

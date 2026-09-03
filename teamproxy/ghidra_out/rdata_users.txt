@@ -1,0 +1,1 @@
+// functions referencing rodata table: 0, refs=0

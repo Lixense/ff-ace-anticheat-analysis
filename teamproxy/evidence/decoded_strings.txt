@@ -1,0 +1,246 @@
+===== ActivityYoutubePlayerActivity$1.smali =====
+===== InternetActivity$1.smali =====
+===== RequestNetwork$RequestListener.smali =====
+===== 君不见高堂明镜悲白发世间行乐亦如此古来万事东流水َ.smali =====
+===== 君不见高堂明镜悲白发为赋新词强说愁َ.smali =====
+===== 君不见高堂明镜悲白发乱我心者今日之日多烦忧َ.smali =====
+===== 君不见高堂明镜悲白发人生在世不称意明朝散发弄扁舟َ.smali =====
+===== 君不见高堂明镜悲白发况是青春日将暮桃花乱落如红雨َ.smali =====
+===== 君不见高堂明镜悲白发别君去兮何时还且放白鹿青崖间َ.smali =====
+===== 君不见高堂明镜悲白发劝君终日酩酊醉酒不到刘伶坟上土َ.smali =====
+===== 君不见高堂明镜悲白发吹龙笛击鼍鼓皓齿歌细腰舞َ.smali =====
+===== 君不见高堂明镜悲白发安能摧眉折腰事权贵使我不得开心颜َ.smali =====
+===== 君不见高堂明镜悲白发少年不识愁滋味َ.smali =====
+===== 君不见高堂明镜悲白发弃我去者昨日之日不可留َ.smali =====
+-- method 君不见高堂明镜悲白发 --
+    b'|V4\n+bV#+}\x02\x05c\x0c/{'
+    b'(XcUy}\x01w\x7f2~@7wV$'
+    b'xU~\x06.5\x7fP~a$\x18y!Wp'
+    b'msf'
+    b'_id=?'
+    b'content://downloads/public_downloads'
+    b'v\x1c^\x1f6^[Rw"-\x07j\x0c]%'
+    b'_id=?'
+    b'video'
+    b'audio'
+    b'content'
+    b'file'
+-- method 天生我材必有用 --
+    b'yyyyMMdd_HHmmss'
+    b'.jpg'
+-- method 岑夫子 --
+    b'_data'
+    b'_data'
+-- method 朝如青丝暮成雪 --
+    b'x\x08|\x031^|\x7f|d&MgBRI'
+===== 君不见高堂明镜悲白发惟觉时之枕席失向来之烟霞َ.smali =====
+===== 君不见高堂明镜悲白发抽刀断水水更流举杯销愁愁更愁َ.smali =====
+===== 君不见高堂明镜悲白发日暮乡关何处是َ.smali =====
+===== 君不见高堂明镜悲白发昔人已乘黄鹤去َ.smali =====
+===== 君不见高堂明镜悲白发晴川历历汉阳树َ.smali =====
+===== 君不见高堂明镜悲白发欲说还休َ.smali =====
+===== 君不见高堂明镜悲白发此地空余黄鹤楼َ.smali =====
+===== 君不见高堂明镜悲白发烟波江上使人愁َ.smali =====
+===== 君不见高堂明镜悲白发烹龙炮凤玉脂泣罗帏绣幕围香风َ.smali =====
+===== 君不见高堂明镜悲白发爱上层楼َ.smali =====
+===== 君不见高堂明镜悲白发琉璃钟琥珀浓小槽酒滴真珠红َ.smali =====
+===== 君不见高堂明镜悲白发白云千载空悠悠َ.smali =====
+===== 君不见高堂明镜悲白发而今识尽愁滋味َ.smali =====
+===== 君不见高堂明镜悲白发芳草萋萋鹦鹉洲َ.smali =====
+===== 君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ.smali =====
+-- method onRequestPermissionsResult --
+    b'\xe2dy Shizuku permission granted!'
+    b'user_key'
+    b'USER_KEY'
+    b'\x1ecp Shizuku permission denied. Please grant permission to continue.'
+-- method 但愿长醉不复醒 --
+    b'dd-MM-yyyy'
+-- method 惟有饮者留其名 --
+    b'mkdir -p '
+    b'sh'
+    b'-c'
+    b'; cp -rf /storage/emulated/0/.hiddenprjkt/'
+    b'/. '
+===== 君不见高堂明镜悲白发黄鹤一去不复返َ.smali =====
+===== R.smali =====
+===== RequestNetwork$FileSizeListener.smali =====
+===== 君不见高堂明镜悲白发三更灯火五更鸡正是男儿读书时َ.smali =====
+===== 君不见高堂明镜悲白发不知乘月几人归落月摇情满江树َ.smali =====
+===== 君不见高堂明镜悲白发不知江月待何人但见长江送流水َ.smali =====
+===== 君不见高堂明镜悲白发与君歌一曲请君为我倾耳听َ.smali =====
+===== 君不见高堂明镜悲白发主人何为言少钱径须沽取对君酌َ.smali =====
+===== 君不见高堂明镜悲白发五花马千金裘呼儿将出换美酒与尔同销万古愁َ.smali =====
+===== 君不见高堂明镜悲白发人生代代无穷已江月年年只相似َ.smali =====
+===== 君不见高堂明镜悲白发人生得意须尽欢莫使金樽空对月َ.smali =====
+===== 君不见高堂明镜悲白发人生终极非名利千古流芳唯正气َ.smali =====
+===== 君不见高堂明镜悲白发北风卷地白草折胡天八月即飞雪َ.smali =====
+===== 君不见高堂明镜悲白发千山遮不住毕竟东流去َ.smali =====
+===== 君不见高堂明镜悲白发千磨万击还坚韧任尔东西南北风َ.smali =====
+-- method <clinit> --
+    b'/storage/emulated/0/Android/data/com.dts.freefireth/cache/UnityShaderCache/'
+    b'SX2222222222222222222'
+    b'/storage/emulated/0/Android/data/com.dts.freefireth/cache/UnityShaderCache/SX2222222222222222222'
+    b'com.dts.freefireth'
+    b'/storage/emulated/0/Android/data/com.dts.freefireth/files/'
+    b'localconfig.json'
+    b'Assembly-CSharp-patch.bytes'
+    b'reporfnew.db'
+    b'ALL01.zip'
+-- method 但愿长醉不复醒 --
+    b'temp_inject'
+    b'/localconfig.json'
+    b'/Assembly-CSharp-patch.bytes'
+    b'sh'
+    b'-c'
+    b'mkdir -p /storage/emulated/0/Android/data/com.dts.freefireth/files/'
+    b'cp '
+    b'sh'
+    b'-c'
+    b'cp '
+    b'sh'
+    b'-c'
+    b'sh'
+    b'-c'
+    b'chmod 644 /storage/emulated/0/Android/data/com.dts.freefireth/files/localconfig.json'
+    b'sh'
+    b'-c'
+    b'chmod 644 /storage/emulated/0/Android/data/com.dts.freefireth/files/Assembly-CSharp-patch.bytes'
+-- method 斗酒十千恣欢谑 --
+    b'sh'
+    b'-c'
+    b'mkdir -p /storage/emulated/0/Android/data/com.dts.freefireth/files/'
+    b"echo '"
+    b'sh'
+    b'-c'
+    b"' > "
+    b'/storage/emulated/0/Android/data/com.dts.freefireth/files/reporfnew.db'
+    b'chmod 644 '
+    b'sh'
+    b'-c'
+    b'/storage/emulated/0/Android/data/com.dts.freefireth/files/reporfnew.db'
+    b'test -f '
+    b'sh'
+    b'-c'
+    b'/storage/emulated/0/Android/data/com.dts.freefireth/files/reporfnew.db'
+-- method 陈王昔时宴平乐 --
+    b'sh'
+    b'-c'
+    b'mkdir -p /storage/emulated/0/Android/data/com.dts.freefireth/cache/UnityShaderCache/'
+    b"echo '"
+    b'sh'
+    b'-c'
+    b"' > "
+    b'sh'
+    b'-c'
+    b'chmod 644 /storage/emulated/0/Android/data/com.dts.freefireth/cache/UnityShaderCache/SX2222222222222222222'
+    b'sh'
+    b'-c'
+    b'test -f /storage/emulated/0/Android/data/com.dts.freefireth/cache/UnityShaderCache/SX2222222222222222222'
+===== 君不见高堂明镜悲白发古人学问无遗力少壮工夫老始成َ.smali =====
+===== 君不见高堂明镜悲白发古来圣贤皆寂寞惟有饮者留其名َ.smali =====
+===== 君不见高堂明镜悲白发可怜楼上月徘徊应照离人妆镜台َ.smali =====
+===== 君不见高堂明镜悲白发天生我材必有用千金散尽还复来َ.smali =====
+===== 君不见高堂明镜悲白发将军角弓不得控都护铁衣冷难着َ.smali =====
+===== 君不见高堂明镜悲白发少壮不努力老大徒伤悲َ.smali =====
+===== 君不见高堂明镜悲白发山回路转不见君雪上空留马行处َ.smali =====
+-- method 与君歌一曲 --
+    b'input_method'
+-- method 君不见高堂明镜悲白发 --
+    b'com.android.camera.action.CROP'
+    b'image/*'
+    b'crop'
+    b'true'
+    b'aspectX'
+    b'aspectY'
+    b'outputX'
+    b'outputY'
+    b'return-data'
+    b"Your device doesn't support the crop action!"
+-- method 请君为我倾耳听 --
+    b'connectivity'
+-- method 钟鼓馔玉不足贵 --
+    b'input_method'
+===== 君不见高堂明镜悲白发岑夫子丹丘生将进酒杯莫停َ.smali =====
+===== 君不见高堂明镜悲白发忽如一夜春风来千树万树梨花开َ.smali =====
+===== 君不见高堂明镜悲白发我自横刀向天笑去留肝胆两昆仑َ.smali =====
+===== 君不见高堂明镜悲白发斜月沉沉藏海雾碣石潇湘无限路َ.smali =====
+===== 君不见高堂明镜悲白发春江潮水连海平海上明月共潮生َ.smali =====
+===== 君不见高堂明镜悲白发昨夜闲潭梦落花可怜春半不还家َ.smali =====
+-- method onErrorResponse --
+    b'SainActivity'
+    b'Error fetching API Key: '
+-- method onResponse --
+    b'success'
+    b'api_key'
+    b'api_key_free'
+    b'SainActivity'
+    b'API Key fetched for free'
+    b'SainActivity'
+    b'Error parsing API Key response: '
+===== 君不见高堂明镜悲白发此时相望不相闻愿逐月华流照君َ.smali =====
+===== 君不见高堂明镜悲白发江天一色无纤尘皎皎空中孤月轮َ.smali =====
+===== 君不见高堂明镜悲白发江水流春去欲尽江潭落月复西斜َ.smali =====
+===== 君不见高堂明镜悲白发江流宛转绕芳甸月照花林皆似霰َ.smali =====
+-- method onResponse --
+    b'Content-Length'
+    b'Invalid Content-Length'
+    b'Content-Length not found'
+===== 君不见高堂明镜悲白发江畔何人初见月江月何年初照人َ.smali =====
+===== 君不见高堂明镜悲白发滟滟随波千万里何处春江无月明َ.smali =====
+-- method 君不见高堂明镜悲白发 --
+    b'HEAD'
+    b'file_size'
+===== 君不见高堂明镜悲白发瀚海阑干百丈冰愁云惨淡万里凝َ.smali =====
+-- method uncaughtException --
+    b'error'
+===== 君不见高堂明镜悲白发烹羊宰牛且为乐会须一饮三百杯َ.smali =====
+===== 君不见高堂明镜悲白发玉户帘中卷不去捣衣砧上拂还来َ.smali =====
+===== 君不见高堂明镜悲白发男儿何不带吴钩收取关山五十州َ.smali =====
+===== 君不见高堂明镜悲白发白云一片去悠悠青枫浦上不胜愁َ.smali =====
+===== 君不见高堂明镜悲白发空里流霜不觉飞汀上白沙看不见َ.smali =====
+-- method <clinit> --
+    b'DELETE'
+    b'GET'
+    b'POST'
+    b'PUT'
+-- method 君不见高堂明镜悲白发 --
+    b'TLS'
+-- method 人生得意须尽欢 --
+    b'unexpected url: '
+    b'application/json'
+===== 君不见高堂明镜悲白发纷纷暮雪下辕门风掣红旗冻不翻َ.smali =====
+-- method 人生得意须尽欢 --
+    b'pro.sketchware.ACTION_NEW_DEBUG_LOG'
+    b'log'
+    b'packageName'
+===== 君不见高堂明镜悲白发纸上得来终觉浅绝知此事须躬行َ.smali =====
+===== 君不见高堂明镜悲白发莫愁前路无知己天下谁人不识君َ.smali =====
+===== 君不见高堂明镜悲白发读书不觉已春深一寸光阴一寸金َ.smali =====
+===== 君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ.smali =====
+-- method <clinit> --
+    b'https://sx2lador.online/api/get_key.php'
+    b'Sx2TeamAppSecureKey2026@!'
+    b'https://sx2lador.online/GetKey.php'
+    b'SainActivity'
+    b'https://sx2lador.online/api/verify.php'
+-- method 古来圣贤皆寂寞 --
+    b'\xe2sM Verifying...'
+-- method 请君为我倾耳听 --
+    b")\x0f+\x04{'\x07T/c`P*\x1e\x01\x02"
+    b"{MR\x1d`rV\x07{ c\x05g]Q'"
+    b'UTF-8'
+    b'HmacSHA256'
+    b'UTF-8'
+-- method 钟鼓馔玉不足贵 --
+    b'v\x06\x7f\x021drs{e&Iib|v'
+    b'HmacSHA256'
+    b'UTF-8'
+    b'HmacSHA256'
+    b'UTF-8'
+===== 君不见高堂明镜悲白发轮台东门送君去去时雪满天山路َ.smali =====
+===== 君不见高堂明镜悲白发钟鼓馔玉不足贵但愿长醉不复醒َ.smali =====
+===== 君不见高堂明镜悲白发长风破浪会有时直挂云帆济沧海َ.smali =====
+===== 君不见高堂明镜悲白发陈王昔时宴平乐斗酒十千恣欢谑َ.smali =====
+===== 君不见高堂明镜悲白发鸿雁长飞光不度鱼龙潜跃水成文َ.smali =====
+===== 君不见高堂明镜悲白发黑发不知勤学早白发方悔读书迟َ.smali =====
+===== h0k.smali =====

@@ -1,0 +1,919 @@
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        4967ed1 com.Sx2.Team.Ban/.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ filter 55ddd36
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Registered ContentProviders:
+  com.Sx2.Team.Ban/androidx.startup.InitializationProvider:
+    Provider{9d1aef0 com.Sx2.Team.Ban/androidx.startup.InitializationProvider}
+  com.Sx2.Team.Ban/rikka.shizuku.君不见高堂明镜悲白发一骑红尘妃子笑无人知是荔枝来:
+    Provider{f34cc69 com.Sx2.Team.Ban/rikka.shizuku.君不见高堂明镜悲白发一骑红尘妃子笑无人知是荔枝来}
+
+ContentProvider Authorities:
+  [com.Sx2.Team.Ban.androidx-startup]:
+    Provider{9d1aef0 com.Sx2.Team.Ban/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{1f936ee com.Sx2.Team.Ban}
+  [com.Sx2.Team.Ban.shizuku]:
+    Provider{f34cc69 com.Sx2.Team.Ban/rikka.shizuku.君不见高堂明镜悲白发一骑红尘妃子笑无人知是荔枝来}
+      applicationInfo=ApplicationInfo{fed178f com.Sx2.Team.Ban}
+
+Key Set Manager:
+  [com.Sx2.Team.Ban]
+      Signing KeySets: 86
+
+Packages:
+  Package [com.Sx2.Team.Ban] (cbaca1c):
+    userId=10129
+    pkg=Package{2c4c625 com.Sx2.Team.Ban}
+    codePath=/data/app/~~c3vy5dJEuDkYqnQ8LebsEg==/com.Sx2.Team.Ban-4pZND2ePewRUKWXtgL7ayw==
+    resourcePath=/data/app/~~c3vy5dJEuDkYqnQ8LebsEg==/com.Sx2.Team.Ban-4pZND2ePewRUKWXtgL7ayw==
+    legacyNativeLibraryDir=/data/app/~~c3vy5dJEuDkYqnQ8LebsEg==/com.Sx2.Team.Ban-4pZND2ePewRUKWXtgL7ayw==/lib
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    versionCode=1 minSdk=21 targetSdk=34
+    versionName=1.0
+    splits=[base]
+    apkSigningVersion=3
+    applicationInfo=ApplicationInfo{2c4c625 com.Sx2.Team.Ban}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_REQUEST_LEGACY_EXTERNAL_STORAGE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    dataDir=/data/user/0/com.Sx2.Team.Ban
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      org.apache.http.legacy
+    usesLibraryFiles:
+      /system/framework/org.apache.http.legacy.jar
+    timeStamp=2026-09-03 17:53:19
+    firstInstallTime=2026-09-03 17:53:21
+    lastUpdateTime=2026-09-03 17:53:21
+    installerPackageName=com.bluestacks.BstCommandProcessor
+    signatures=PackageSignatures{7c5d3fa version:3, signatures:[c9a47c1f], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.WRITE_EXTERNAL_STORAGE: restricted=true
+      android.permission.READ_EXTERNAL_STORAGE: restricted=true
+      moe.shizuku.manager.permission.API_V23
+      android.permission.FOREGROUND_SERVICE
+      android.permission.MANAGE_EXTERNAL_STORAGE
+      android.permission.REQUEST_INSTALL_PACKAGES
+      android.permission.INTERNET
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.ACCESS_FPS_COUNTER
+      android.permission.BIND_EXTERNAL_STORAGE_SERVICE
+    install permissions:
+      android.permission.FOREGROUND_SERVICE: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.ACCESS_NETWORK_STATE: granted=true
+    User 0: ceDataInode=3540563 installed=true hidden=false suspended=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      gids=[3003]
+      runtime permissions:
+        android.permission.READ_EXTERNAL_STORAGE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+        android.permission.WRITE_EXTERNAL_STORAGE: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED|RESTRICTION_INSTALLER_EXEMPT]
+
+Queries:
+  system apps queryable: true
+  queries via package name:
+    com.Sx2.Team.Ban:
+      moe.shizuku.privileged.api
+  queries via intent:
+    com.google.android.play.games:
+      com.Sx2.Team.Ban
+    com.dts.freefireth:
+      com.Sx2.Team.Ban
+  queryable via interaction:
+    User 0:
+      [com.android.dynsystem,android,com.android.inputdevices,com.android.localtransport,com.bluestacks.BstCommandProcessor,com.android.settings,com.android.keychain,com.android.server.telecom,com.android.location.fused,com.android.providers.settings]:
+        com.Sx2.Team.Ban
+      com.android.inputmethod.latin:
+        com.Sx2.Team.Ban
+
+Package Changes:
+  Sequence number=4
+  User 0:
+    seq=3, package=com.google.android.gms
+
+
+Dexopt state:
+  [com.Sx2.Team.Ban]
+    path: /data/app/~~c3vy5dJEuDkYqnQ8LebsEg==/com.Sx2.Team.Ban-4pZND2ePewRUKWXtgL7ayw==/base.apk
+      x86_64: [status=speed-profile] [reason=install]
+
+
+Compiler stats:
+  [com.Sx2.Team.Ban]
+     base.apk - 4142
+
+DUMP OF SERVICE activity:
+ACTIVITY MANAGER SETTINGS (dumpsys activity settings) activity_manager_constants:
+  max_cached_processes=32
+  background_settle_time=60000
+  fgservice_min_shown_time=2000
+  fgservice_min_report_time=3000
+  fgservice_screen_on_before_time=1000
+  fgservice_screen_on_after_time=5000
+  content_provider_retain_time=20000
+  gc_timeout=5000
+  gc_min_interval=60000
+  force_bg_check_on_restricted=true
+  full_pss_min_interval=1200000
+  full_pss_lowered_interval=300000
+  power_check_interval=300000
+  power_check_max_cpu_1=25
+  power_check_max_cpu_2=25
+  power_check_max_cpu_3=10
+  power_check_max_cpu_4=2
+  service_usage_interaction_time=1800000
+  usage_stats_interaction_interval=7200000
+  service_restart_duration=1000
+  service_reset_run_duration=60000
+  service_restart_duration_factor=4
+  service_min_restart_time_between=10000
+  service_max_inactivity=1800000
+  service_bg_start_timeout=15000
+  service_bg_activity_start_timeout=10000
+  service_crash_restart_duration=1800000
+  service_crash_max_retry=16
+  process_start_async=true
+  memory_info_throttle_time=300000
+  top_to_fgs_grace_duration=15000
+  imperceptible_kill_exempt_proc_states=[0, 1, 2, 4, 12]
+  imperceptible_kill_exempt_packages=[]
+  min_assoc_log_duration=300000
+  fgs_start_foreground_timeout=10000
+
+  CUR_MAX_CACHED_PROCESSES=32
+  CUR_MAX_EMPTY_PROCESSES=16
+  CUR_TRIM_EMPTY_PROCESSES=8
+  CUR_TRIM_CACHED_PROCESSES=5
+  OOMADJ_UPDATE_QUICK=true
+CachedAppOptimizer settings
+  use_compaction=false
+  compact_action_1=file
+  compact_action_2=all
+  compact_throttle_1=5000
+  compact_throttle_2=10000
+  compact_throttle_3=500
+  compact_throttle_4=10000
+  compact_throttle_5=600000
+  compact_throttle_6=600000
+  compact_statsd_sample_rate=0.1
+  compact_full_rss_throttle_kb=12000
+  compact_full_delta_rss_throttle_kb=8000
+  compact_proc_state_throttle=[11]
+  0 some, 0 full, 0 persistent, 0 BFGS compactions.
+  Tracking last compaction stats for 0 processes.
+ use_freezer=false
+  freeze_statsd_sample_rate=0.1
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER ALLOWED ASSOCIATION STATE (dumpsys activity allowed-associations)
+  (No association restrictions)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER PENDING INTENTS (dumpsys activity intents)
+  * UID: 1000 total: 14
+  * UID: 10070 total: 1
+  * UID: 10095 total: 14
+  * UID: 10102 total: 13
+  * UID: 10110 total: 2
+  * UID: 10122 total: 1
+  (nothing)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER BROADCAST STATE (dumpsys activity broadcasts)
+
+  Broadcast parameters (key=bcast_fg_constants, observing=true):
+    bcast_timeout = +30s0ms
+    bcast_slow_time = +5s0ms
+    bcast_deferral = +5s0ms
+    bcast_deferral_decay_factor = 0.75
+    bcast_deferral_floor = 0    bcast_allow_bg_activity_start_timeout = +10s0ms
+
+  Broadcast parameters (key=bcast_bg_constants, observing=true):
+    bcast_timeout = +1m0s0ms
+    bcast_slow_time = +5s0ms
+    bcast_deferral = +5s0ms
+    bcast_deferral_decay_factor = 0.75
+    bcast_deferral_floor = 0    bcast_allow_bg_activity_start_timeout = +10s0ms
+
+  Broadcast parameters (key=bcast_offload_constants, observing=true):
+    bcast_timeout = +1m0s0ms
+    bcast_slow_time = +24d20h31m23s647ms
+    bcast_deferral = +5s0ms
+    bcast_deferral_decay_factor = 0.75
+    bcast_deferral_floor = 0    bcast_allow_bg_activity_start_timeout = +10s0ms
+
+  mBroadcastsScheduled [foreground]=false
+  mBroadcastsScheduled [background]=false
+  mBroadcastsScheduled [offload]=false
+  mHandler:
+    Handler (com.android.server.am.ActivityManagerService$MainHandler) {32d9dab} @ 1363366
+      Looper (ActivityManager, tid 27) {db86c08}
+        Message 0: { when=+2m24s53ms what=27 target=com.android.server.am.ActivityManagerService$MainHandler }
+        Message 1: { when=+7m33s231ms callback=com.android.server.appop.AppOpsService$1 target=com.android.server.am.ActivityManagerService$MainHandler }
+        (Total messages: 2, polling=true, quitting=false)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER BROADCAST STATS STATE (dumpsys activity broadcast-stats)
+  Current stats (from -22m37s375ms to now, +22m37s375ms uptime):
+    pro.sketchware.ACTION_NEW_DEBUG_LOG:
+      Number received: 0, skipped: 0
+      Total dispatch time: 0, max: 0
+      Package com.Sx2.Team.Ban: 65 times
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER CONTENT PROVIDERS (dumpsys activity providers)
+  (nothing)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER URI PERMISSIONS (dumpsys activity permissions)
+  (nothing)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER SERVICES (dumpsys activity services)
+  (nothing)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER RECENT TASKS (dumpsys activity recents)
+mRecentsUid=10094
+mRecentsComponent=ComponentInfo{com.android.launcher3/com.android.quickstep.RecentsActivity}
+mFreezeTaskListReordering=false
+mFreezeTaskListReorderingPendingTimeout=false
+  (nothing)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER LAST ANR (dumpsys activity lastanr)
+  <no ANR has occurred since boot>
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER STARTER (dumpsys activity starter)
+(nothing)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER ACTIVITIES (dumpsys activity activities)
+Display #0 (activities from top to bottom):
+  (nothing)
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER PROCESS EXIT INFO (dumpsys activity exit-info)
+Last Timestamp of Persistence Into Persistent Storage: 2026-09-03 17:53:32.254
+  package: com.Sx2.Team.Ban
+    Historical Process Exit for userId=10129
+        ApplicationExitInfo #0:
+          timestamp=2026-09-03 18:00:25.918
+          pid=4770
+          realUid=10129
+          packageUid=10129
+          definingUid=10129
+          user=0
+          process=com.Sx2.Team.Ban
+          reason=10 (USER REQUESTED)
+          status=0
+          importance=400
+          pss=58MB
+          rss=167MB
+          description=remove task
+          state=empty
+          trace=null
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER RUNNING PROCESSES (dumpsys activity processes)
+  OOM levels:
+    -900: SYSTEM_ADJ (   73,728K)
+    -800: PERSISTENT_PROC_ADJ (   73,728K)
+    -700: PERSISTENT_SERVICE_ADJ (   73,728K)
+      0: FOREGROUND_APP_ADJ (   73,728K)
+     100: VISIBLE_APP_ADJ (   92,160K)
+     200: PERCEPTIBLE_APP_ADJ (  110,592K)
+     250: PERCEPTIBLE_LOW_APP_ADJ (  129,024K)
+     300: BACKUP_APP_ADJ (  221,184K)
+     400: HEAVY_WEIGHT_APP_ADJ (  221,184K)
+     500: SERVICE_ADJ (  221,184K)
+     600: HOME_APP_ADJ (  221,184K)
+     700: PREVIOUS_APP_ADJ (  221,184K)
+     800: SERVICE_B_ADJ (  221,184K)
+     900: CACHED_APP_MIN_ADJ (  221,184K)
+     999: CACHED_APP_MAX_ADJ (  322,560K)
+
+  Process OOM control (24 total, non-act at 2, non-svc at 2):
+
+  mHomeProcess: ProcessRecord{92137b0 3058:com.uncube.launcher3/u0a115}
+  mPreviousProcess: ProcessRecord{455caae 2603:com.android.launcher3/u0a94}
+
+
+  Process LRU list (sorted by oom_adj, 24 total, non-act at 2, non-svc at 2):
+  mDeviceIdleWhitelist=[2000, 10060, 10063, 10096, 10102]
+  mDeviceIdleExceptIdleWhitelist=[2000, 10060, 10061, 10063, 10070, 10071, 10096, 10102, 10110]
+  mDeviceIdleTempWhitelist=[]
+  mForceBackgroundCheck=false
+
+-------------------------------------------------------------------------------
+ACTIVITY MANAGER USERS (dumpsys activity users)
+  mStartedUsers:
+    User #0: state=RUNNING_UNLOCKED
+  mStartedUserArray: [0]
+  mUserLru: [0]
+  mCurrentUserId:0
+  mTargetUserId:-10000
+  mLastActiveUsers:[]
+  mDelayUserDataLocking:false
+  mMaxRunningUsers:3
+  mUserSwitchUiEnabled:true
+  mInitialized:true
+
+DUMP OF SERVICE meminfo:
+No process found for: com.Sx2.Team.Ban
+
+DUMP OF SERVICE procstats:
+CURRENT STATS:
+          Start time: 2026-09-03 17:58:01
+        Total uptime: +22m38s942ms
+  Total elapsed time: +22m38s942ms (partial) libart.so
+     Aggregated over: 1
+
+System memory usage:
+   SOn/Norm: 1 samples:
+    Cached: 209MB min, 209MB avg, 209MB max
+    Free: 6.6GB min, 6.6GB avg, 6.6GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 120MB min, 120MB avg, 120MB max
+    Native: 292MB min, 292MB avg, 292MB max
+
+Per-Package Stats:
+  * com.android.providers.settings / 1000 / v30:
+      * Asc com.android.providers.settings.SettingsProvider:
+        Process: system
+        Total count 1: time 100%
+        <- com.android.systemui/u0a95 (com.android.systemui)
+        <- com.android.networkstack.process/1073 (com.android.networkstack)
+        <- com.bluestacks.BstCommandProcessor/1000 (com.bluestacks.BstCommandProcessor)
+        <- com.android.settings/1000 (com.android.settings)
+        <- android.ext.services/u0a101 (android.ext.services)
+        <- com.android.phone/1001 (com.android.phone)
+        <- com.android.launcher3/u0a94 (com.android.launcher3)
+        <- com.google.android.gms.persistent/u0a102 (com.google.android.gms)
+        <- com.android.cellbroadcastreceiver.module/u0a96 (com.android.cellbroadcastreceiver.module)
+        <- com.android.inputmethod.latin/u0a90 (com.android.inputmethod.latin)
+        <- com.bluestacks.gamecenter/u0a114 (com.bluestacks.gamecenter)
+        <- com.android.providers.media.module/u0a98 (com.android.providers.media.module)
+        <- android.process.acore/u0a61 (com.android.providers.userdictionary)
+        <- com.bluestacks.home/u0a122 (com.bluestacks.home)
+        <- com.google.process.gapps/u0a102 (com.google.android.gsf)
+        <- com.uncube.launcher3/u0a115 (com.uncube.launcher3)
+        <- com.google.process.gservices/u0a102 (com.google.android.gsf)
+        <- com.google.android.gms/u0a102 (com.google.android.gms)
+        <- android.process.media/u0a60 (com.android.providers.downloads)
+        <- com.android.permissioncontroller/u0a97 (com.android.permissioncontroller)
+        <- com.android.providers.calendar/u0a70 (com.android.providers.calendar)
+        <- com.android.vending/u0a110 (com.android.vending)
+        <- com.android.localtransport/1000 (com.android.localtransport)
+        <- com.google.android.partnersetup/u0a104 (com.google.android.partnersetup)
+        <- com.google.android.gms.unstable/u0a102 (com.google.android.gms)
+        <- com.google.android.play.games/u0a125 (com.google.android.play.games)
+        <- com.android.externalstorage/u0a67 (com.android.externalstorage)
+        <- com.android.vending:background/u0a110 (com.android.vending)
+        <- com.android.vending:quick_launch/u0a110 (com.android.vending)
+        <- com.Sx2.Team.Ban/u0a129 (com.Sx2.Team.Ban):
+             Total count 1: time 95% (running)
+  * com.Sx2.Team.Ban / u0a129 / v1:
+      * Prc com.Sx2.Team.Ban / u0a129 / v1:
+             TOTAL: 0.30%
+               Top: 0.30%
+          (Cached): 4.8% (58MB-58MB-58MB/51MB-51MB-51MB/167MB-167MB-167MB over 2)
+  Total procs: 0 shown of 49 total
+
+Process summary:
+  * com.Sx2.Team.Ban / u0a129 / v1:
+         TOTAL: 0.30%
+           Top: 0.30%
+      (Cached): 4.8% (58MB-58MB-58MB/51MB-51MB-51MB/167MB-167MB-167MB over 2)
+
+Run time Stats:
+   SOn/Norm: +22m38s880ms (running)
+      TOTAL: +22m38s880ms
+
+Memory usage:
+  Kernel : 120MB (8 samples)
+  Native : 292MB (8 samples)
+  Top: 78MB (10 samples)
+  ImpFg: 43MB (31 samples)
+  ImpBg: 878KB (36 samples)
+  Service: 612KB (62 samples)
+  Receivr: 91KB (40 samples)
+  Home: 11MB (3 samples)
+  LastAct: 16MB (14 samples)
+  CchAct: 2.8MB (2 samples)
+  CchEmty: 450MB (49 samples)
+  Cached : 209MB (8 samples)
+  Free   : 6.6GB (8 samples)
+  TOTAL  : 7.8GB
+  ServRst: 167 (2 samples)
+
+PSS collection stats:
+  Internal Single: 98x over +200ms
+  Internal All Procs (Memory Change): 0x over 0
+  Internal All Procs (Polling): 6x over +14ms
+  External: 0x over 0
+  External Slow: 1x over +30ms
+
+AGGREGATED OVER LAST 24 HOURS:
+          Start time: 2026-09-01 12:32:20
+        Total uptime: +22h56m23s847ms
+  Total elapsed time: +22h56m23s847ms (partial) libart.so
+     Aggregated over: 10
+
+System memory usage:
+   SOn/Norm: 10 samples:
+    Cached: 209MB min, 1.4GB avg, 2.3GB max
+    Free: 3.2GB min, 4.7GB avg, 6.6GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 120MB min, 154MB avg, 181MB max
+    Native: 272MB min, 295MB avg, 309MB max
+
+Per-Package Stats:
+  * com.android.providers.settings / 1000 / v30:
+      * Asc com.android.providers.settings.SettingsProvider:
+        Process: system
+        Total count 10: time 100%
+        <- com.bluestacks.BstCommandProcessor/1000 (com.bluestacks.BstCommandProcessor)
+        <- com.android.networkstack.process/1073 (com.android.networkstack)
+        <- com.android.phone/1001 (com.android.phone)
+        <- android.ext.services/u0a101 (android.ext.services)
+        <- com.android.settings/1000 (com.android.settings)
+        <- com.android.systemui/u0a95 (com.android.systemui)
+        <- com.android.launcher3/u0a94 (com.android.launcher3)
+        <- com.android.inputmethod.latin/u0a90 (com.android.inputmethod.latin)
+        <- com.android.providers.media.module/u0a98 (com.android.providers.media.module)
+        <- android.process.acore/u0a61 (com.android.providers.userdictionary)
+        <- com.google.android.gms.persistent/u0a102 (com.google.android.gms)
+        <- com.android.localtransport/1000 (com.android.localtransport)
+        <- com.google.process.gservices/u0a102 (com.google.android.gsf)
+        <- com.android.cellbroadcastreceiver.module/u0a96 (com.android.cellbroadcastreceiver.module)
+        <- com.bluestacks.gamecenter/u0a114 (com.bluestacks.gamecenter)
+        <- com.uncube.launcher3/u0a115 (com.uncube.launcher3)
+        <- com.google.process.gapps/u0a102 (com.google.android.gsf)
+        <- com.google.android.gms/u0a102 (com.google.android.gms)
+        <- com.bluestacks.home/u0a122 (com.bluestacks.home)
+        <- android.process.media/u0a60 (com.android.providers.downloads)
+        <- com.android.providers.calendar/u0a70 (com.android.providers.calendar)
+        <- com.google.android.play.games/u0a125 (com.google.android.play.games)
+        <- com.android.permissioncontroller/u0a97 (com.android.permissioncontroller)
+        <- com.android.vending/u0a110 (com.android.vending)
+        <- com.google.android.gms.unstable/u0a102 (com.google.android.gms)
+        <- com.android.vending:background/u0a110 (com.android.vending)
+        <- com.google.android.partnersetup/u0a104 (com.google.android.partnersetup)
+        <- com.android.externalstorage/u0a67 (com.android.externalstorage)
+        <- com.android.vending:quick_launch/u0a110 (com.android.vending)
+        <- com.android.chrome/u0a128 (com.android.chrome)
+        <- android.process.acore/u0a61 (com.android.providers.contacts)
+        <- com.android.vending:instant_app_installer/u0a110 (com.android.vending)
+        <- com.android.keychain/1000 (com.android.keychain)
+        <- com.android.packageinstaller/u0a64 (com.android.packageinstaller)
+        <- com.android.documentsui/u0a62 (com.android.documentsui)
+        <- com.google.android.syncadapters.calendar/u0a119 (com.google.android.syncadapters.calendar)
+        <- com.dts.freefireth/u0a160 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a129 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a161 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a162 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a163 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a164 (com.dts.freefireth)
+        <- android.process.media/u0a60 (com.android.mtp)
+        <- com.dts.freefireth/u0a133 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a134 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a135 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a136 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a137 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a138 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a139 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a140 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a141 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a142 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a143 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a144 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a145 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a146 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a147 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a148 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a149 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a150 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a151 (com.dts.freefireth)
+        <- top.nkbe.npatch/u0a153 (top.nkbe.npatch)
+        <- com.dts.freefireth/u0a154 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a156 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a157 (com.dts.freefireth)
+        <- com.Sx2.Team.Ban/u0a129 (com.Sx2.Team.Ban):
+             Total count 2: time 1.6%
+  * com.Sx2.Team.Ban / u0a129 / v1:
+      * Prc com.Sx2.Team.Ban / u0a129 / v1:
+             TOTAL: 0.01%
+               Top: 0.01%
+          (Cached): 0.13% (58MB-58MB-58MB/51MB-51MB-51MB/167MB-168MB-169MB over 3)
+  Total procs: 0 shown of 95 total
+
+Process summary:
+  * com.Sx2.Team.Ban / u0a129 / v1:
+         TOTAL: 0.01%
+           Top: 0.01%
+      (Cached): 0.13% (58MB-58MB-58MB/51MB-51MB-51MB/167MB-168MB-169MB over 3)
+
+Run time Stats:
+  SOff/Norm: +543ms
+   SOn/Norm: +22h56m22s634ms
+      TOTAL: +22h56m23s177ms
+
+Memory usage:
+  Kernel : 154MB (80 samples)
+  Native : 295MB (80 samples)
+  Persist: 274MB (466 samples)
+  Top: 404MB (259 samples)
+  ImpFg: 194MB (575 samples)
+  ImpBg: 16MB (613 samples)
+  Service: 59MB (756 samples)
+  Receivr: 131KB (773 samples)
+  Home: 35MB (75 samples)
+  LastAct: 34MB (614 samples)
+  CchAct: 28MB (95 samples)
+  CchCAct: 40MB (214 samples)
+  CchEmty: 491MB (1375 samples)
+  Cached : 1.4GB (80 samples)
+  Free   : 4.7GB (80 samples)
+  TOTAL  : 8.1GB
+  ServRst: 3.2KB (157 samples)
+
+PSS collection stats:
+  Internal Single: 1426x over +3s503ms
+  Internal All Procs (Memory Change): 0x over 0
+  Internal All Procs (Polling): 234x over +433ms
+  External: 0x over 0
+  External Slow: 6x over +259ms
+
+AGGREGATED OVER LAST 3 HOURS:
+          Start time: 2026-09-02 20:58:08
+        Total uptime: +4h32m3s193ms
+  Total elapsed time: +4h32m3s193ms (partial) libart.so
+     Aggregated over: 4
+
+System memory usage:
+   SOn/Norm: 4 samples:
+    Cached: 209MB min, 1.2GB avg, 2.0GB max
+    Free: 4.2GB min, 5.1GB avg, 6.6GB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 120MB min, 148MB avg, 181MB max
+    Native: 292MB min, 300MB avg, 309MB max
+
+Per-Package Stats:
+  * com.android.providers.settings / 1000 / v30:
+      * Asc com.android.providers.settings.SettingsProvider:
+        Process: system
+        Total count 4: time 100%
+        <- com.bluestacks.BstCommandProcessor/1000 (com.bluestacks.BstCommandProcessor)
+        <- com.android.networkstack.process/1073 (com.android.networkstack)
+        <- com.android.phone/1001 (com.android.phone)
+        <- android.ext.services/u0a101 (android.ext.services)
+        <- com.android.systemui/u0a95 (com.android.systemui)
+        <- com.android.settings/1000 (com.android.settings)
+        <- com.android.launcher3/u0a94 (com.android.launcher3)
+        <- com.android.inputmethod.latin/u0a90 (com.android.inputmethod.latin)
+        <- com.android.providers.media.module/u0a98 (com.android.providers.media.module)
+        <- android.process.acore/u0a61 (com.android.providers.userdictionary)
+        <- com.google.android.gms.persistent/u0a102 (com.google.android.gms)
+        <- com.android.cellbroadcastreceiver.module/u0a96 (com.android.cellbroadcastreceiver.module)
+        <- com.android.localtransport/1000 (com.android.localtransport)
+        <- com.uncube.launcher3/u0a115 (com.uncube.launcher3)
+        <- com.bluestacks.gamecenter/u0a114 (com.bluestacks.gamecenter)
+        <- com.google.process.gservices/u0a102 (com.google.android.gsf)
+        <- com.google.process.gapps/u0a102 (com.google.android.gsf)
+        <- com.google.android.gms/u0a102 (com.google.android.gms)
+        <- com.bluestacks.home/u0a122 (com.bluestacks.home)
+        <- android.process.media/u0a60 (com.android.providers.downloads)
+        <- com.android.providers.calendar/u0a70 (com.android.providers.calendar)
+        <- com.android.permissioncontroller/u0a97 (com.android.permissioncontroller)
+        <- com.android.vending/u0a110 (com.android.vending)
+        <- com.google.android.gms.unstable/u0a102 (com.google.android.gms)
+        <- com.google.android.partnersetup/u0a104 (com.google.android.partnersetup)
+        <- com.android.vending:background/u0a110 (com.android.vending)
+        <- com.google.android.play.games/u0a125 (com.google.android.play.games)
+        <- com.android.externalstorage/u0a67 (com.android.externalstorage)
+        <- com.android.vending:quick_launch/u0a110 (com.android.vending)
+        <- com.android.chrome/u0a128 (com.android.chrome)
+        <- com.android.packageinstaller/u0a64 (com.android.packageinstaller)
+        <- com.android.keychain/1000 (com.android.keychain)
+        <- com.android.documentsui/u0a62 (com.android.documentsui)
+        <- android.process.acore/u0a61 (com.android.providers.contacts)
+        <- com.android.vending:instant_app_installer/u0a110 (com.android.vending)
+        <- com.google.android.syncadapters.calendar/u0a119 (com.google.android.syncadapters.calendar)
+        <- com.dts.freefireth/u0a160 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a161 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a162 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a163 (com.dts.freefireth)
+        <- com.dts.freefireth/u0a164 (com.dts.freefireth)
+        <- com.Sx2.Team.Ban/u0a129 (com.Sx2.Team.Ban):
+             Total count 2: time 8.2%
+  * com.Sx2.Team.Ban / u0a129 / v1:
+      * Prc com.Sx2.Team.Ban / u0a129 / v1:
+             TOTAL: 0.07%
+               Top: 0.06%
+          (Cached): 0.66% (58MB-58MB-58MB/51MB-51MB-51MB/167MB-168MB-169MB over 3)
+  Total procs: 0 shown of 61 total
+
+Process summary:
+  * com.Sx2.Team.Ban / u0a129 / v1:
+         TOTAL: 0.07%
+           Top: 0.06%
+      (Cached): 0.66% (58MB-58MB-58MB/51MB-51MB-51MB/167MB-168MB-169MB over 3)
+
+Run time Stats:
+  SOff/Norm: +543ms
+   SOn/Norm: +4h32m2s397ms
+      TOTAL: +4h32m2s940ms
+
+Memory usage:
+  Kernel : 148MB (32 samples)
+  Native : 300MB (32 samples)
+  Persist: 269MB (130 samples)
+  Top: 78MB (40 samples)
+  ImpFg: 138MB (176 samples)
+  ImpBg: 16MB (125 samples)
+  Service: 70MB (189 samples)
+  Receivr: 194KB (177 samples)
+  Home: 1.1MB (27 samples)
+  LastAct: 4.6MB (119 samples)
+  CchAct: 504KB (31 samples)
+  CchCAct: 163KB (36 samples)
+  CchEmty: 553MB (254 samples)
+  Cached : 1.2GB (32 samples)
+  Free   : 5.1GB (32 samples)
+  TOTAL  : 7.8GB
+  ServRst: 49 (7 samples)
+
+PSS collection stats:
+  Internal Single: 259x over +534ms
+  Internal All Procs (Memory Change): 0x over 0
+  Internal All Procs (Polling): 78x over +150ms
+  External: 0x over 0
+  External Slow: 2x over +56ms
+
+DUMP OF SERVICE usagestats:
+user=0 
+  Last 24 hour events (timeRange="9/2/2026, 6:20 PM – 9/3/2026, 6:20 PM" )
+    time="2026-09-03 18:53:33" type=STANDBY_BUCKET_CHANGED package=com.Sx2.Team.Ban standbyBucket=5 reason=d flags=0x0 
+    time="2026-09-03 18:57:03" type=ACTIVITY_RESUMED package=com.Sx2.Team.Ban class=com.Sx2.Team.Ban.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ instanceId=198201385 taskRootPackage=com.Sx2.Team.Ban taskRootClass=com.Sx2.Team.Ban.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ flags=0x0 
+    time="2026-09-03 18:57:09" type=ACTIVITY_PAUSED package=com.Sx2.Team.Ban class=com.Sx2.Team.Ban.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ instanceId=198201385 taskRootPackage=com.Sx2.Team.Ban taskRootClass=com.Sx2.Team.Ban.君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ flags=0x0 
+    time="2026-09-03 18:57:20" type=ACTIVITY_STOPPED package=com.Sx2.Team.Ban class=com.Sx2.Team.Ban.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ instanceId=198201385 taskRootPackage=com.Sx2.Team.Ban taskRootClass=com.Sx2.Team.Ban.君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ flags=0x0 
+    time="2026-09-03 18:57:51" type=ACTIVITY_PAUSED package=com.Sx2.Team.Ban class=com.Sx2.Team.Ban.君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ instanceId=197563322 taskRootPackage=com.Sx2.Team.Ban taskRootClass=com.Sx2.Team.Ban.君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ flags=0x0 
+    time="2026-09-03 18:59:16" type=ACTIVITY_RESUMED package=com.Sx2.Team.Ban class=com.Sx2.Team.Ban.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ instanceId=222700235 taskRootPackage=com.Sx2.Team.Ban taskRootClass=com.Sx2.Team.Ban.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ flags=0x0 
+    time="2026-09-03 18:59:19" type=ACTIVITY_PAUSED package=com.Sx2.Team.Ban class=com.Sx2.Team.Ban.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ instanceId=222700235 taskRootPackage=com.Sx2.Team.Ban taskRootClass=com.Sx2.Team.Ban.君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ flags=0x0 
+    time="2026-09-03 19:00:25" type=ACTIVITY_STOPPED package=com.Sx2.Team.Ban class=com.Sx2.Team.Ban.君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ instanceId=222700235 taskRootPackage=com.Sx2.Team.Ban taskRootClass=com.Sx2.Team.Ban.君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ flags=0x0 
+  In-memory daily stats
+  timeRange="9/3/2026, 5:52 – 6:18 PM" 
+    packages
+      package=com.Sx2.Team.Ban totalTimeUsed="00:08" lastTimeUsed="2026-09-03 18:59:19" totalTimeVisible="01:25" lastTimeVisible="2026-09-03 19:00:25" totalTimeFS="00:00" lastTimeFS="1970-01-01 01:00:00" appLaunchCount=2 
+    
+    ChooserCounts
+      package=com.Sx2.Team.Ban 
+  In-memory weekly stats
+  timeRange="8/30/2026, 12:07 AM – 9/3/2026, 6:18 PM" 
+    packages
+      package=com.Sx2.Team.Ban totalTimeUsed="00:08" lastTimeUsed="2026-09-03 18:59:19" totalTimeVisible="01:25" lastTimeVisible="2026-09-03 19:00:25" totalTimeFS="00:00" lastTimeFS="1970-01-01 01:00:00" appLaunchCount=2 
+    
+    ChooserCounts
+      package=com.Sx2.Team.Ban 
+  In-memory monthly stats
+  timeRange="8/30/2026, 12:07 AM – 9/3/2026, 6:18 PM" 
+    packages
+      package=com.Sx2.Team.Ban totalTimeUsed="00:08" lastTimeUsed="2026-09-03 18:59:19" totalTimeVisible="01:25" lastTimeVisible="2026-09-03 19:00:25" totalTimeFS="00:00" lastTimeFS="1970-01-01 01:00:00" appLaunchCount=2 
+    
+    ChooserCounts
+      package=com.Sx2.Team.Ban 
+  In-memory yearly stats
+  timeRange="8/30/2026, 12:07 AM – 9/3/2026, 6:18 PM" 
+    packages
+      package=com.Sx2.Team.Ban totalTimeUsed="00:08" lastTimeUsed="2026-09-03 18:59:19" totalTimeVisible="01:25" lastTimeVisible="2026-09-03 19:00:25" totalTimeFS="00:00" lastTimeFS="1970-01-01 01:00:00" appLaunchCount=2 
+    
+    ChooserCounts
+      package=com.Sx2.Team.Ban 
+  
+
+Usage Source=TASK_ROOT_ACTIVITY 
+
+  App Time Limits
+   User  userId=0
+ Currently Active:com.uncube.launcher3, 
+ Observed Entities:
+
+
+User 0 App Standby States:
+  package=com.Sx2.Team.Ban u=0 bucket=5 reason=d used=+26m57s397ms usedByUser=+1d20h9m57s142ms usedScr=+21m22s369ms lastPred=+29m0s195ms activeLeft=-1d20h9m57s142ms wsLeft=-1d20h9m57s142ms lastJob=-24855d3h14m7s666ms idle=n
+  
+  totalElapsedTime=+1d20h9m57s142ms
+  totalScreenOnTime=+22m37s702ms
+
+DUMP OF SERVICE batterystats:
+Statistics since last charge:
+  System starts: 0, currently on battery: true
+  Estimated battery capacity: 1000 mAh
+  Time on battery: 22m 38s 411ms (100.0%) realtime, 22m 38s 411ms (100.0%) uptime
+  Time on battery screen off: 743ms (0.1%) realtime, 743ms (0.1%) uptime
+  Time on battery screen doze: 0ms (0.0%)
+  Total run time: 22m 38s 411ms realtime, 22m 38s 411ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2026-09-03-17-58-01
+  Screen on: 22m 37s 668ms (99.9%) 1x, Interactive: 22m 37s 672ms (99.9%)
+  Screen brightnesses:
+    medium 22m 37s 662ms (100.0%)
+    bright 4ms (0.0%)
+  Connectivity changes: 1
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 22m 38s 411ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0.0%)
+     Cellular Sleep time:  0ms (0.0%)
+     Cellular Idle time:   0ms (0.0%)
+     Cellular Rx time:     0ms (0.0%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0.0%)
+       0dBm to 8dBm:  0ms (0.0%)
+       8dBm to 15dBm:  0ms (0.0%)
+       15dBm to 20dBm:  0ms (0.0%)
+       above 20dBm:  0ms (0.0%)
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       very poor (less than -128dBm):  22m 36s 538ms (99.9%) 
+  Wifi Statistics:
+     Wifi kernel active time: 17m 42s 595ms (78.2%)
+     WiFi Scan time:  0ms (0.0%)
+     WiFi Sleep time:  22m 38s 416ms (100.0%)
+     WiFi Idle time:   0ms (0.0%)
+     WiFi Rx time:     0ms (0.0%)
+     WiFi Tx time:     0ms (0.0%)
+     Wifi data received: 0B
+     Wifi data sent: 0B
+     Wifi packets received: 0
+     Wifi packets sent: 0
+     Wifi states: (no activity)
+     Wifi supplicant states: (no activity)
+     Wifi Rx signal strength (RSSI): (no activity)
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (0.0%) 
+      good (greater than 20 dBHz): 0ms (0.0%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   0ms (0.0%)
+     Bluetooth Rx time:     0ms (0.0%)
+     Bluetooth Tx time:     0ms (0.0%)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 1000, Computed drain: 0.967, actual drain: 0
+    Uid 1000: 0.753 ( sensor=0.753 ) Excluded from smearing
+    Cell standby: 0.113 ( radio=0.113 ) Excluded from smearing
+    Screen: 0.0566 Excluded from smearing
+    Idle: 0.0377 Excluded from smearing
+    Uid u0a102: 0.00584 ( sensor=0.00584 ) Including smearing: 0.0564 ( proportional=0.0506 )
+    Uid 0: 0.0000206 ( wake=0.0000206 ) Excluded from smearing
+
+  CPU freqs:
+
+  1000:
+    User activity: 3 other, 2 button, 15 touch
+    Wake lock *dexopt* realtime
+    Wake lock WiredAccessoryManager realtime
+    Wake lock *alarm* realtime
+    Wake lock AudioMix realtime
+    Wake lock *launch* realtime
+    Wake lock NetworkStats realtime
+    Wake lock NtpTimeHelper realtime
+    Wake lock *location* realtime
+    Wake lock GnssLocationProvider realtime
+    Wake lock NetworkTimeUpdateService realtime
+    Wake lock *job*/android/com.android.server.pm.BackgroundDexOptService realtime
+    Wake lock timedetector.TimeDetectorStrategyCallbackImpl realtime
+    Wake lock SyncLoopWakeLock realtime
+    Job android/com.android.server.pm.BackgroundDexOptService: 267ms realtime (1 times)
+    Job Completions android/com.android.server.pm.BackgroundDexOptService: canceled(1x)
+    Audio: 370ms realtime (2 times)
+    Sensor 0: 22m 36s 203ms realtime (1 times)
+    Foreground activities: 1s 162ms realtime (1 times)
+    Foreground for: 22m 38s 411ms 
+    Total running: 22m 38s 411ms 
+    Total cpu time: u=10s 471ms s=6s 140ms 
+    Proc android.hardware.memtrack@1.0-service:
+      CPU: 20ms usr + 0ms krn ; 0ms fg
+    Proc idmap2d:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc android.hardware.power@1.0-service:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc servicemanager:
+      CPU: 90ms usr + 110ms krn ; 0ms fg
+    Proc WebViewLoader-x86:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc com.android.settings:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc android.system.suspend@1.0-service:
+      CPU: 10ms usr + 30ms krn ; 0ms fg
+    Proc com.android.localtransport:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc com.android.keychain:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc WebViewLoader-x86_64:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc android.hardware.graphics.allocator@2.0-service:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc surfaceflinger:
+      CPU: 1s 140ms usr + 1s 40ms krn ; 0ms fg
+    Proc com.bluestacks.BstCommandProcessor:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+      1 starts
+    Proc system:
+      CPU: 8s 680ms usr + 4s 760ms krn ; 0ms fg
+    Proc android.hardware.health@2.1-service:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc hwservicemanager:
+      CPU: 20ms usr + 20ms krn ; 0ms fg
+    Proc vndservicemanager:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc com.android.dynsystem:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Apk com.android.location.fused:
+      Service com.android.location.fused.FusedLocationService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.android.localtransport:
+      Service com.android.localtransport.LocalTransportService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.android.keychain:
+      Service com.android.keychain.KeyChainService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 2
+    Apk com.android.server.telecom:
+      Service com.android.server.telecom.components.TelecomService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.server.telecom.components.BluetoothPhoneService:
+        Created for: 22m 36s 980ms uptime
+        Starts: 1, launches: 1
+    Apk com.bluestacks.BstCommandProcessor:
+      Service com.bluestacks.BstCommandProcessor.BstCommandProcessorService:
+        Created for: 22m 37s 121ms uptime
+        Starts: 1, launches: 1
+    Apk android:
+      Wakeup alarm *walarm*:WifiHealthMonitor Schedule Post-Boot Detection Timer: 0 times
+      Service android.hardware.location.GeofenceHardwareService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.server.pm.BackgroundDexOptService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.server.content.SyncJobService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 3
+  u0a129:
+    Wake lock *dexopt* realtime
+    Wake lock *launch* realtime
+    Foreground activities: 3s 151ms realtime (1 times)
+    Top for: 4s 68ms 
+    Cached for: 1m 5s 486ms 
+    Total running: 1m 9s 554ms 
+    Total cpu time: u=326ms s=124ms 
+    Proc com.Sx2.Team.Ban:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 22
+All UID cpu time reads since the later of device start or stats reset: 28
+UIDs removed since the later of device start or stats reset: 3
+done

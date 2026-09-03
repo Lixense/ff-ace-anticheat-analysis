@@ -1,0 +1,123 @@
+====== 丹丘生 ======
+.method static synthetic 丹丘生(Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;)Landroid/content/SharedPreferences;
+    .locals 1
+
+    iget-object v0, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->莫使金樽空对月:Landroid/content/SharedPreferences;
+
+    return-object v0
+.end method
+
+
+====== 人生得意须尽欢 ======
+.method static synthetic 人生得意须尽欢(Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;J)Ljava/lang/String;
+    .locals 2
+
+    invoke-direct/range {p0 .. p5}, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->请君为我倾耳听(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;J)Ljava/lang/String;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+
+====== 会须一饮三百杯 ======
+.method static synthetic 会须一饮三百杯(Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;Ljava/lang/String;)V
+    .locals 0
+
+    invoke-direct {p0, p1}, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->古来圣贤皆寂寞(Ljava/lang/String;)V
+
+    return-void
+.end method
+
+
+====== 但愿长醉不复醒 ======
+.method private native 但愿长醉不复醒()Ljava/lang/String;
+.end method
+
+
+====== 古来圣贤皆寂寞 ======
+.method private 古来圣贤皆寂寞(Ljava/lang/String;)V
+    .locals 6
+
+    const/16 v2, 0x10
+
+    const/4 v3, 0x0
+
+    iget-object v0, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->杯莫停:Landroid/widget/TextView;
+
+    new-array v1, v2, [B
+
+    fill-array-data v1, :array_0
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v1
+
+    new-array v2, v2, [B
+
+    fill-array-data v2, :array_1
+
+    const-wide v4, 0x41a16f748e000000L    # 1.46258503E8
+
+    invoke-static {v2, v1, v4, v5}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;D)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    iget-object v0, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->杯莫停:Landroid/widget/TextView;
+
+    const v1, -0x9f5a06
+
+    invoke-virtual {v0, v1}, Landroid/widget/TextView;->setTextColor(I)V
+
+    iget-object v0, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->杯莫停:Landroid/widget/TextView;
+
+    invoke-virtual {v0, v3}, Landroid/widget/TextView;->setVisibility(I)V
+
+    iget-object v0, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->烹羊宰牛且为乐:Landroid/widget/Button;
+
+    invoke-virtual {v0, v3}, Landroid/widget/Button;->setEnabled(Z)V
+
+    new-instance v0, Ljava/lang/Thread;
+
+    new-instance v1, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发江水流春去欲尽江潭落月复西斜َ;
+
+    invoke-direct {v1, p0, p1}, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发江水流春去欲尽江潭落月复西斜َ;-><init>(Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;Ljava/lang/String;)V
+
+    invoke-direct {v0, v1}, Ljava/lang/Thread;-><init>(Ljava/lang/Runnable;)V
+
+    invoke-virtual {v0}, Ljava/lang/Thread;->start()V
+
+    return-void
+
+    nop
+
+====== 将进酒 ======
+.method static synthetic 将进酒(Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;)Ljava/lang/String;
+    .locals 1
+
+    iget-object v0, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->岑夫子:Ljava/lang/String;
+
+    return-object v0
+.end method
+
+
+====== 岑夫子 ======
+.method static synthetic 岑夫子(Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;Ljava/lang/String;)V
+    .locals 0
+
+    iput-object p1, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发谁家今夜扁舟子何处相思明月楼َ;->天生我材必有用:Ljava/lang/String;
+
+    return-void
+.end method
+
+
+====== onCreate ======
+.method protected native onCreate(Landroid/os/Bundle;)V
+.end method
+

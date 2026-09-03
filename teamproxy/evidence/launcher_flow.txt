@@ -1,0 +1,208 @@
+######## 长风万里 (copy activity) ########
+==== 但愿长醉不复醒 ====
+.method public 但愿长醉不复醒(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    .locals 5
+
+    invoke-static {}, Ljava/util/Calendar;->getInstance()Ljava/util/Calendar;
+
+    move-result-object v0
+
+    iput-object v0, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ;->人生得意须尽欢:Ljava/util/Calendar;
+
+    iget-object v0, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ;->千金散尽还复来:Landroid/widget/TextView;
+
+    const/16 v1, 0x10
+
+    new-array v1, v1, [B
+
+    fill-array-data v1, :array_0
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v1
+
+    new-instance v2, Ljava/text/SimpleDateFormat;
+
+    const/16 v3, 0xa
+
+    new-array v3, v3, [B
+
+    fill-array-data v3, :array_1
+
+    const v4, 0x4ef856f5
+
+    invoke-static {v3, v1, v4}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;F)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-direct {v2, v1}, Ljava/text/SimpleDateFormat;-><init>(Ljava/lang/String;)V
+
+    iget-object v1, p0, Lcom/Sx2/Team/Ban/君不见高堂明镜悲白发长风万里送秋雁对此可以酣高楼َ;->人生得意须尽欢:Ljava/util/Calendar;
+
+    invoke-virtual {v1}, Ljava/util/Calendar;->getTime()Ljava/util/Date;
+
+    move-result-object v1
+
+    invoke-virtual {v2, v1}, Ljava/text/SimpleDateFormat;->format(Ljava/util/Date;)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    return-void
+
+==== 古来圣贤皆寂寞 ====
+.method public 古来圣贤皆寂寞(Landroid/view/View;D)V
+    .locals 6
+
+    double-to-long v0, p2
+
+    new-instance v2, Landroid/view/animation/AlphaAnimation;
+
+    const/4 v3, 0x0
+
+    const/high16 v4, 0x3f800000    # 1.0f
+
+    invoke-direct {v2, v3, v4}, Landroid/view/animation/AlphaAnimation;-><init>(FF)V
+
+    invoke-virtual {v2, v0, v1}, Landroid/view/animation/Animation;->setDuration(J)V
+
+    new-instance v0, Landroid/view/animation/AnimationSet;
+
+    const/4 v1, 0x1
+
+    invoke-direct {v0, v1}, Landroid/view/animation/AnimationSet;-><init>(Z)V
+
+    invoke-virtual {v0, v2}, Landroid/view/animation/AnimationSet;->addAnimation(Landroid/view/animation/Animation;)V
+
+    invoke-virtual {p1, v0}, Landroid/view/View;->startAnimation(Landroid/view/animation/Animation;)V
+
+    return-void
+.end method
+
+
+==== 惟有饮者留其名 ====
+.method public 惟有饮者留其名(Ljava/lang/String;Ljava/lang/String;)V
+    .locals 8
+
+    :try_start_0
+    new-instance v0, Ljava/lang/StringBuilder;
+
+    const/16 v1, 0x10
+
+    new-array v1, v1, [B
+
+    fill-array-data v1, :array_0
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v1
+
+    const/16 v2, 0x9
+
+    new-array v2, v2, [B
+
+    fill-array-data v2, :array_1
+
+    const-wide/32 v4, 0x3c61d7a9
+
+    invoke-static {v2, v1, v4, v5}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;J)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-direct {v0, v1}, Ljava/lang/StringBuilder;-><init>(Ljava/lang/String;)V
+
+    const/16 v1, 0x10
+
+    new-array v1, v1, [B
+
+    fill-array-data v1, :array_2
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v1
+
+    const/4 v2, 0x2
+
+    new-array v2, v2, [B
+
+    fill-array-data v2, :array_3
+
+    const/4 v3, 0x0
+
+    const/4 v4, 0x0
+
+    invoke-static {v2, v1, v3, v4}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;ZZ)Ljava/lang/String;
+
+    move-result-object v1
+
+    const/16 v2, 0x10
+
+    new-array v2, v2, [B
+
+    fill-array-data v2, :array_4
+
+    invoke-static {v2}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-static {v2}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v2
+
+    const/4 v3, 0x2
+
+    new-array v3, v3, [B
+
+    fill-array-data v3, :array_5
+
+    const-wide v4, 0x41d58a866f000000L    # 1.445599676E9
+
+    invoke-static {v3, v2, v4, v5}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;D)Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-virtual {v0, p2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const/16 v3, 0x10
+
+    new-array v3, v3, [B
+
+    fill-array-data v3, :array_6
+
+    invoke-static {v3}, Lnp/君不见高堂明镜悲白发君不见黄河之水天上来奔流到海不复回َ;->奔流到海不复回([B)Ljava/lang/String;
+
+    move-result-object v3
+
+    invoke-static {v3}, Lnp/君不见高堂明镜悲白发君不见高堂明镜悲白发朝如青丝暮成雪َ;->君不见高堂明镜悲白发(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v3
+
+    const/16 v4, 0x2a
+
+    new-array v4, v4, [B
+
+    fill-array-data v4, :array_7
+
+    const/16 v5, -0x5038
+
+    invoke-static {v4, v3, v5}, Lnp/君不见高堂明镜悲白发却道天凉好个秋َ;->奔流到海不复回([BLjava/lang/String;I)Ljava/lang/String;
+
+    move-result-object v3
+
+    invoke-virtual {v0, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
